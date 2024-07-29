@@ -1,8 +1,8 @@
-# Desafio-Bix
+# Desafio
 
 #### Nome: Getúlio Rodrigues Silva
 
-Desafio técnico para Cientista de Dados Junior Bix Technology
+Desafio técnico para Cientista de Dados
 
 1.	What steps would you take to solve this problem? Please describe as completely and clearly as possible all the steps that you see as essential for solving the problem.
 
