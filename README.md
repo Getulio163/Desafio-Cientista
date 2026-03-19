@@ -61,7 +61,7 @@ Seguindo a referência para o modelo XGBoost sem redução de dimensionalidade.
 * Se o caminhão é mandado para manutenção e possui defeito no sistema de ventilação. O custo é de $25. -> Verdadeiro Positivo
 * Se o caminhão não é mandado para a manutenção e possui defeito. O custo é $500 devido manutenção corretiva. -> Falso Negativo
 
-![alt text](image.png)
+![alt text](/img/image.png)
 
 Custo previsto utilizando modelo Random Forest.
 
